@@ -1,5 +1,5 @@
 # project1
-project 1 By: Jamal, Jaheim & Rupal 
+project 1 By: Rupal, Jamal & Jaheim
 
 ## Datasource website 
 
@@ -51,6 +51,40 @@ Looking at the bar charts for all the 8 drug types, we can see that trend for sa
 https://sparkbyexamples.com/pandas/pandas-extract-month-and-year-separately-from-datetime-column/
 https://datatofish.com/sum-columns-rows-dataframe/
 https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+
+
+## Project Findings:
+
+1- Questions that you found interesting and what motivated you to answer them
+
+## Our questions are:
+    1- Different categories for each drug group 
+    2 Highest selling drug and its performance 
+    3 Lowest selling drug and its performance 
+    4 which drug group categories and its sales for all 6 years ( 2014- 2019)
+    5- Yearly sales for each category
+    6- Finding Mean, median, STd, deviation, Quartiles
+
+What motivated us to answer them was the drive to become better data analysts and practice the concepts we learned in class to achieve that.
+
+2- Where and how you found the data you used to answer these questions
+
+We found the dataset on Kaggle.com. We were looking for a large dataset so we could come up with enough questions to answer. The "Salesmonthly" dataset has the sold monthly quantity for 8 drug groups over a 6-year period, which is a long time. And that's why we found it interesting . Also this web link has additional information about each drug category(https://www.whocc.no/atc/structure_and_principles/)
+
+3- The data exploration and cleanup process (accompanied by your Jupyter notebook)
+
+We started the data exploration process by reading the instructions for the project. The instructions suggested using data from certain fields, and healthcare was one of them. The cleanup process was done by downloading our dataset, importing packages, and deleting duplicate or null values in the dataset.
+
+4- The analysis process (accompanied by your Jupyter notebook)
+
+The analysis process was done by answering the propsal's questions we came up with as a group. We also added data visualization to these questions, which will make it easier for the audience to understand our analysis. We also calculated important things like the mean, median, variance, and standard deviation.
+
+5- Your conclusions, including a numerical summary and visualizations of the summary
+
+Our conclusions and analysis are shown in description and also through visualizations in presentation (Pharmasales_anlysis.ipynb
+)
+
+
 
 
 
