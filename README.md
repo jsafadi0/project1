@@ -52,5 +52,41 @@ https://sparkbyexamples.com/pandas/pandas-extract-month-and-year-separately-from
 https://datatofish.com/sum-columns-rows-dataframe/
 https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
 
+Analysis And Findings:
+
+
+Create a write-up summarizing your major findings. This should include a heading for each “question” that you asked your data as well as a short description of your findings and any relevant plots.
+
+4- Total sales for each drug group for the entire 2014–2019 period
+
+For this question, I calculated the total 6-year quantity sold for each drug group. I found that the "N02BE" drug group is the highest-selling drug group by a lot, with 49.4% of total drug groups sold over a 6-year period. I also created a pie chart as a data visualization to represent my calculations.
+
+3- Yearly sales according to group or category
+
+For this question, I calculated the total quantity sold for each drug group for every year. I also created line graphs as a data visualization to represent my calculations. Again, we see the "N02BE" drug group has the most selling quantity in every year and this finding is similar to the question above. The main finding for this question is that no drug group had a stable selling trend in the 6-year period. Each one of them had its ups and downs.
+
+1- Questions that you found interesting and what motivated you to answer them
+
+Our questions are:
+1- Which drug group has the most sales between 2014 to 2019
+2- The ranking drug groups from highest to lowest
+3- Monthly sales according to group/category
+4- Total sales for each drug group for entire 2014-2019 period
+5- Finding Mean, median, STd, deviation, Quartiles
+
+What motivated us to answer them was the drive to become better data analysts and practice the concepts we learned in class to achieve that.
+
+2- Where and how you found the data you used to answer these questions
+
+We found the dataset on Kaggle.com. We were looking for a large dataset so we could come up with enough questions to answer. The "salesmonthly" dataset has the sold monthly quantity for 8 drug groups over a 6-year period, which is a long time. And that's why we found it interesting.
+
+3- The data exploration and cleanup process (accompanied by your Jupyter notebook)
+
+We started the data exploration process by reading the instructions for the project. The instructions suggested using data from certain fields, and healthcare was one of them. The cleanup process was done by downloading our dataset, importing packages, and deleting duplicate or null values in the dataset.
+
+4- The analysis process (accompanied by your Jupyter notebook)
+
+The analysis process was done by answering the propsal's questions we came up with as a group. We also added data visualization to these questions, which will make it easier for the audience to understand our analysis. We also calculated important things like the mean, median, variance, and standard deviation.
+
 
 
